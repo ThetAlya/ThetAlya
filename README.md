@@ -1,4 +1,4 @@
-## **Hiya!👋👋**
+# **Hiya!👋👋**
 
 I'm **Alya**, a college student who's both a programmer and an editor.
 -# *I am better as an editor.*
@@ -12,7 +12,7 @@ My main editing software is Davinci Resolve, Adobe Photoshop, and Adobe Audition
 
 I've got a bunch of ideas in my head, but no time to make them 😭.
 
-# **Fun Facts**:
+## **Fun Facts**:
 - I am a semi-pro player on Rainbow Six Siege
 - Steins;Gate is my favorite anime
 - I love plushies, and I have a bed full of them.
