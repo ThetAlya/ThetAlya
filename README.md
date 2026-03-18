@@ -10,7 +10,7 @@ If I have an idea, there's a high likelihood I will hyperfocus on it until it's 
 My main programming software is VS Code and MySQL.
 My main editing software is Davinci Resolve, Adobe Photoshop, and Adobe Audition. Before I migrated to Davinci Resolve, I used to use Adobe Premiere Pro and After Effects.
 
-I've got a bunch of ideas in my head, but no time to make them 😭.
+I've got a bunch of ideas in my head, but no time to make them😭.
 
 ## **Fun Facts**:
 - I am a semi-pro player on Rainbow Six Siege
