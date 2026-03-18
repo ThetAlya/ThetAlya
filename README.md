@@ -1,7 +1,7 @@
 # **Hiya!👋👋**
 
 I'm **Alya**, a college student who's both a programmer and an editor.
--# *I am better as an editor.*
+###### *I am better as an editor.*
 
 I make whatever I would like, while focusing on entertainment.
 
