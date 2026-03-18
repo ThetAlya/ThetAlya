@@ -16,6 +16,7 @@ I've got a bunch of ideas in my head, but no time to make them 😭.
 - I am a semi-pro player on Rainbow Six Siege
 - Steins;Gate is my favorite anime
 - I love plushies, and I have a bed full of them.
+- I have an obsession with space.
 - **Hobbies:** Gaming, Anime, Streaming
 
 <!--
